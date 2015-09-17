@@ -1,0 +1,22 @@
+{
+  "name": "app-plug",
+  "version": "1.0.0",
+  "description": "a simple test to install plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xzela/app-plug.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xzela/app-plug/issues"
+  },
+  "homepage": "https://github.com/xzela/app-plug#readme",
+  "dependencies": {
+    "npm": "^2.14.3"
+  }
+}
