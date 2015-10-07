@@ -11,6 +11,8 @@ function init(callback) {
 			_rootPath(require.main.filename),
 			'plugins'
 		);
+
+
 	// do dependency install here!
 	//
 	require.main.paths.unshift(source);
