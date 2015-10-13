@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/xzela/app-plug#readme",
   "dependencies": {
-    "npm": "3.3.x"
+    "async": "^1.4.2",
+    "npm": "3.3.x",
+    "read-package-json": "^2.0.1"
   }
 }
